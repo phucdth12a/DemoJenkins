@@ -1,0 +1,1 @@
+C:\Users\Admin\.jenkins\workspace\Demo\Demo\bin\Debug\Demo.exe.config
